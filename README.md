@@ -30,11 +30,11 @@ index.js
 router.js 
     src
         Assest
-            all assest is here
+           
         Components
-            all component is here
+            
         Config
-            constants is here
+           
         reducer(slices)
-            all slice is here 
+            
         store.js
